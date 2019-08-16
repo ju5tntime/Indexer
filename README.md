@@ -1,2 +1,2 @@
-# Jottbot
-Indexer that does most of my student job for me
+# Indexer
+App that does most of my student job for me
